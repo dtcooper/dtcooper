@@ -1,5 +1,5 @@
-# David Cooper
+I'm a software engineer 💾 turned radio personality 📻.
 
-_Software Engineer turned Radio Personality._
+Coding is now a hobby. My mother 👩‍👦 thinks I'm crazy 🤪.
 
-Find out more at [jew.pizza](https://jew.pizza/).
+Find out more or listen 👂 at [www.jew.pizza](https://jew.pizza/) ✡️ 🍕. [[source](https://github.com/dtcooper/jewpizza)]
